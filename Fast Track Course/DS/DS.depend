@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1691591541 source:c:\users\91998\desktop\fast track course\ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"array.h"
+
+1691685619 source:c:\users\91998\desktop\fast track course\ds\array.c
+	"array.h"
+
+1691685619 c:\users\91998\desktop\fast track course\ds\array.h
+

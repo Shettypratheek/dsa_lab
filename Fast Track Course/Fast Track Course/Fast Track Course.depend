@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1690825644 source:c:\users\91998\desktop\fast track course\fast track course\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"day_header.h"
+
+1690822754 source:c:\users\91998\desktop\fast track course\fast track course\operator.c
+	<stdlib.h>
+	<stdio.h>
+
+1690135397 c:\users\91998\desktop\fast track course\fast track course\day_header.h
+

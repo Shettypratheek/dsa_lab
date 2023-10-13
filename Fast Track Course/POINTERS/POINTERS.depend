@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1692123206 source:c:\users\91998\desktop\fast track course\pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1692086253 c:\users\91998\desktop\fast track course\pointers\header.h
+
+1691767334 source:c:\users\91998\desktop\fast track course\pointers\operator.c
+
+1691771366 source:c:\users\91998\desktop\fast track course\pointers\header.c
+
+1692086971 source:c:\users\91998\desktop\fast track course\pointers\oper.c
+	<stdio.h>
+	<stdlib.h>
+

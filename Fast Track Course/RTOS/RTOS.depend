@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1691763638 source:c:\users\91998\desktop\fast track course\rtos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1691764131 source:c:\users\91998\desktop\fast track course\rtos\operator.c
+
+1691762474 c:\users\91998\desktop\fast track course\rtos\header.h
+

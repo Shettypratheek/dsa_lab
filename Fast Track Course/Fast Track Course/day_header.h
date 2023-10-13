@@ -1,0 +1,13 @@
+int addition(int,int);
+int subtraction(int,int);
+int  multiplication(int,int);
+int division(int,int);
+char upper_to_lower(char);
+double area(double);
+char difference(char,char);
+double celsius_to_fahrenheit(double );
+int odd_even(int );
+int leap_year(int );
+int shift_operator(int);
+char int_char(char);
+int random(int,int);
