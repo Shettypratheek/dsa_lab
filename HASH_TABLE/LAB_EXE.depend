@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1697641462 source:c:\users\91998\desktop\data structure\lab_exe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"header.h"
+
+1697640794 c:\users\91998\desktop\data structure\lab_exe\header.h
+
+1697641669 source:c:\users\91998\desktop\data structure\lab_exe\operator.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
