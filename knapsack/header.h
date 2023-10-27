@@ -30,3 +30,5 @@ Node *get_node(KnapData data);
 int insert_at_beg(List *,KnapData );
 int insert_at_end(List *,KnapData);
 void display(List *my_list);
+int insert_data(List *my_list,KnapData data);
+float calculation(List *my_list,float *weight);
