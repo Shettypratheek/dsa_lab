@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1696184055 source:c:\users\91998\desktop\fast track course\dsa_assignment\dsa_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"header.h"
+
+1696130384 c:\users\91998\desktop\fast track course\dsa_assignment\dsa_lab\header.h
+
+1696183843 source:c:\users\91998\desktop\fast track course\dsa_assignment\dsa_lab\operator.c
+	<stdlib.h>
+	<stdio.h>
+	"header.h"
+
