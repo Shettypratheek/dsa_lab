@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1701008479 source:c:\users\91998\desktop\data structure\btree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"header.h"
+
+1698761787 c:\users\91998\desktop\data structure\btree\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1698761793 source:c:\users\91998\desktop\data structure\btree\operator.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"header.h"
+
