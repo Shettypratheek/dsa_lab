@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1700977695 source:c:\users\91998\desktop\data structure\qeue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"header.h"
+
+1700977684 c:\users\91998\desktop\data structure\qeue\header.h
+
+1700977448 source:c:\users\91998\desktop\data structure\qeue\operator.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
